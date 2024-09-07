@@ -1,0 +1,7 @@
+---
+roles:
+- UniInc.CLion
+- UniInc.Google-Chrome
+- UniInc.GCC
+- UniInc.GDB
+- UniInc.CMake
